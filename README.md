@@ -1,4 +1,4 @@
-# Note: I am no longer updating the files in this repository. I do not have the time nor patience to update this repo every single update. Newest versions are in the [discord](https://discord.gg/CwU8pnbRMz).
+# Note: I am no longer updating the files in this repository. I do not have the time nor patience to update this repo every single update. Newest versions are in the
 
 ## Resent
 
@@ -23,6 +23,4 @@ Nitwit (hooman#1196)
 * PrecisionClient (discord.gg/agFak6frsj or etcher#1849)
 
 ## Support
-
-Join our discord [here](https://discord.gg/CwU8pnbRMz) and ping @hooman#1196. I will get back to you ASAP. If you don't have discord open a new issue in the issues tab and I will try to help you.
 
